@@ -1,4 +1,4 @@
-# Copyright (c) 2020 Carls V. Freyre All rights reserved
+# Copyright (c) 2020 Carlos V. Freyre All rights reserved
 
 from django.shortcuts import render, redirect
 from .models import Stock
